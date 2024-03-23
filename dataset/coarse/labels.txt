@@ -1,0 +1,17 @@
+O
+B-product
+I-product
+B-event
+I-event
+B-location
+I-location
+B-organization
+I-organization
+B-other
+I-other
+B-person
+I-person
+B-art
+I-art
+B-building
+I-building
